@@ -1,3 +1,6 @@
+ ## FORK - ADDED FEATURES
+- Automatic Captcha Solving using Captcha Buster extension (click on the captcha and click on the solver button)
+
 # Reddit Account Generator (Fixed)
  **WHAT IS IT?**
  
@@ -19,11 +22,6 @@
  ```
 
  Additionally, a file named "namesforreddit.txt" should be in the same folder as the .py executable, where your accounts will be saved.
-
- ## FORK - ADDED FEATURES THAT DON'T EXIST IN UPSTREAM
-- Automatic Captcha Solving using Captcha Buster extension (click on the captcha and click on the solver button)
-- Script doesn't close anymore after it's done (press enter to start the process again after completion, this clears cookies too)
-- Script only saves the details after they are entered
  
  **UPDATES**
  
